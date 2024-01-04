@@ -14,6 +14,7 @@
 	"[cn]AK47": "https://qu.ax/HtMB.txt",
 	"[cn]武哥": "https://qu.ax/LEPk.txt",
 	"[cn]fifaivan": "https://qu.ax/atTi.m3u",
+	"[en]fifaivan-3": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fifaivan/TV/main/3.m3u",
 	"[en]Kids-English": "https://cdn.jsdelivr.net/gh/abskmj/iptv-youtube-live@gh-pages/kids-english.m3u8",
 	"[en]freecatv": "https://github.moeyy.xyz/https://raw.githubusercontent.com/manikiptv/freecatv.github.io/main/freecatv.m3u8",
 	"[en]freecatv-Live": "https://github.moeyy.xyz/https://raw.githubusercontent.com/manikiptv/freecatv.github.io/main/FreecatvLive.m3u8",
@@ -29,7 +30,7 @@
 	"[jp]Japanese-TV": "https://github.moeyy.xyz/https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u",
 	"[th]Thai-TV1": "https://github.moeyy.xyz/https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV.m3u",
 	"[th]Thai-TV2": "https://github.moeyy.xyz/https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV2.m3u",
-	"[tu]Turkish-TV": "https://github.moeyy.xyz/https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/master/Kanallar/KekikAkademi.m3u",
-	"[ge]German-TV": "https://github.moeyy.xyz/https://raw.githubusercontent.com/josxha/german-tv-m3u/main/german-tv.m3u",
+	"[tr]Turkish-TV": "https://github.moeyy.xyz/https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/master/Kanallar/KekikAkademi.m3u",
+	"[de]German-TV": "https://github.moeyy.xyz/https://raw.githubusercontent.com/josxha/german-tv-m3u/main/german-tv.m3u",
 	"[fr]strm2hls (V2)": "https://github.moeyy.xyz/https://raw.githubusercontent.com/azgaresncf/strm2hls/main/index.m3u8"
 }
