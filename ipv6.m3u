@@ -3146,53 +3146,53 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/32212
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230931/1.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230427/1.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/PLTV/1/224/3221230427/1.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/PLTV/1/224/3221230931/1.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="4K",4K 修复
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/4K修复.png",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 group-title="4K",8K 测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="4K",爱上 4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png",爱上 4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 group-title="4K",真 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 group-title="4K",BesTV 4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",纯享 4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="4K",爱上4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png",爱上 4K
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",4K修复
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/4K修复.png",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="4K",4K修复
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/4K修复.png",4K 修复
 http://[2409:8087:2001:20:2900:0:df6e:eb04]:80/PLTV/1/224/3221230920/1.m3u8
-#EXTINF:-1 group-title="4K",4K修复
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/4K修复.png",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/PLTV/1/224/3221230920/1.m3u8
-#EXTINF:-1 group-title="4K",4K修复
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/4K修复.png",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
-#EXTINF:-1 group-title="4K",4K修复
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/4K修复.png",4K 修复
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228141/1.m3u8
-#EXTINF:-1 group-title="4K",4K修复
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/4K修复.png",4K 修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1674379680&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="4K",4K影视
+#EXTINF:-1 group-title="4K",4K 影视
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="4K",江苏移动4K
+#EXTINF:-1 group-title="4K",江苏移动 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 group-title="4K",百视通4K
+#EXTINF:-1 group-title="4K",百视通 4K
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",二更4K
+#EXTINF:-1 group-title="4K",二更 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221231024/1.m3u8
 
 #EXTINF:-1 group-title="NewTV",百姓生活
@@ -3758,13 +3758,13 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001308/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
 #EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png",金色学堂
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001194/1.m3u8
-#EXTINF:-1 group-title="地方·上海",乐游
+#EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001200/1.m3u8
 #EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png",哈哈炫动
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="地方·上海",炫动卡通
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="地方·上海",乐游
+#EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png",金色学堂
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -3782,7 +3782,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png",金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 group-title="地方·上海",乐游
+#EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png",哈哈炫动
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226618/1.m3u8
@@ -3796,7 +3796,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw351708314_-1939677679/ott.mobaibox.com/PLTV/3/224/3221226388/index.m3u8?icpid=3&RTS=1674380467&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png",哈哈炫动
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw351571978_-649119985/ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8?icpid=3&RTS=1674380467&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="地方·上海",乐游
+#EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw1554068832_-103623048/ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8?icpid=3&RTS=1674385964&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="地方·上海" tvg-logo="https://epg.112114.xyz/logo/上海外语.png",上海外语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
@@ -4335,7 +4335,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3
 #EXTINF:-1 group-title="地方·山东",山东教育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 
-#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶友频道.png",茶友频道
+#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶友频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
@@ -4345,9 +4345,9 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8?
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001230/1.m3u8
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8?
-#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道
+#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001234/1.m3u8
-#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道
+#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8?
 #EXTINF:-1 group-title="地方·湖北",湖南茶
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
@@ -4355,7 +4355,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png",金鹰纪实
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道
+#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -4363,7 +4363,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002264/index.m3
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道
+#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png",金鹰纪实
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw354382270_-2073622480/ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8?icpid=3&RTS=1674380469&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -4385,7 +4385,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001230/index.m3u8?love=freedom
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001235/index.m3u8?love=freedom
-#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道
+#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001234/index.m3u8?love=freedom
 
 #EXTINF:-1 group-title="地方·湖南",古装剧场

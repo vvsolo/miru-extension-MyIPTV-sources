@@ -881,13 +881,13 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1 group-title="4K",Love Nrture 4K「自然」 (IPv4)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png",纯享 4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K",4K影视
+#EXTINF:-1 group-title="4K",4K 影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="4K",4K影视
+#EXTINF:-1 group-title="4K",4K 影视
 http://r.jdshipin.com/Lqdwf
 #EXTINF:-1 group-title="4K",斗鱼4K影院
 http://159.75.85.63:35455/douyu/9249162
@@ -1466,7 +1466,7 @@ https://stream.hndt.com/live/xinwen/playlist.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道
+#EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 #EXTINF:-1 group-title="地方·湖北" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png",金鹰纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226351/index.m3u8
@@ -1769,7 +1769,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 group-title="YouTube「P」",INDIA TODAY
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 group-title="YouTube「P」",FRANCE 24
+#EXTINF:-1 group-title="YouTube「P」" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png",FRANCE 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 group-title="YouTube「P」",NBC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
@@ -1953,7 +1953,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="特色",广东4k
 http://113.117.74.17:8081/hls/145/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV 4K
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV 4K
 http://113.117.74.17:8081/hls/144/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",「HK」J2
