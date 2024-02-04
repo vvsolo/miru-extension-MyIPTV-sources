@@ -1625,12 +1625,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视" tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="央视",江苏·连云港·东海国学与家道
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2532366382_-413976163/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
-#EXTINF:-1 group-title="央视",江苏·连云港·东海国学与家道
+#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8
-#EXTINF:-1 group-title="央视",江苏·连云港·东海国学与家道
-http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1547150751_-2143084998/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8?icpid=3&RTS=1674385957&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 
 #EXTINF:-1 group-title="央视·国际" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2984,20 +2980,20 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000309/ind
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2201703491_-1935318667/ott.mobaibox.com/PLTV/3/224/3221227563/index.m3u8?icpid=3&RTS=1669700802&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="卫视" tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?
+#EXTINF:-1 group-title="卫视" tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221230452/1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="卫视" tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 #EXTINF:-1 group-title="卫视",陕西·西安教育电视台
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 #EXTINF:-1 group-title="卫视",陕西·西安教育电视台
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221230452/1.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东·教育卫视
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 
 #EXTINF:-1 group-title="北京" tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png",北京·京视剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw2927670510_1843427486/ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
@@ -3021,8 +3017,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw354821479_-1797672522
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1572655012_1581480062/ott.mobaibox.com/PLTV/3/224/3221227037/index.m3u8?icpid=3&RTS=1674385983&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="北京" tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png",北京·京视剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw354976012_638374474/ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="北京",中国交通·北京
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000438/index.m3u8?IAS
 
 #EXTINF:-1 group-title="上海" tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png",上海·第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
@@ -3064,15 +3058,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw351708314_-1939677679
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw351571978_-649119985/ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8?icpid=3&RTS=1674380467&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="上海" tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海·纪实人文
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海·纪实
+#EXTINF:-1 group-title="上海" tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海·纪实人文
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="上海" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海·纪实
+#EXTINF:-1 group-title="上海" tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png",上海·纪实人文
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/东方影视.png",东方影视
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 
+#EXTINF:-1 group-title="江苏" tvg-id="东海国学与家道" tvg-name="东海国学与家道" tvg-logo="https://www.nettvpro.xyz/uploads/allimg/18/1-1P3062342310-L.jpg",江苏·连云港·东海国学与家道
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2532366382_-413976163/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 group-title="江苏" tvg-id="东海国学与家道" tvg-name="东海国学与家道" tvg-logo="https://www.nettvpro.xyz/uploads/allimg/18/1-1P3062342310-L.jpg",江苏·连云港·东海国学与家道
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1547150751_-2143084998/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8?icpid=3&RTS=1674385957&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="江苏" tvg-id="丰县生活娱乐" tvg-name="丰县生活娱乐" tvg-logo="https://www.nettvpro.xyz/uploads/allimg/19/1-1911061331290-L.jpg",江苏·徐州·丰县生活娱乐
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw546624575_-1910844548/ott.mobaibox.com/PLTV/3/224/3221227937/index.m3u8
 #EXTINF:-1 group-title="江苏" tvg-id="丰县生活娱乐" tvg-name="丰县生活娱乐" tvg-logo="https://www.nettvpro.xyz/uploads/allimg/19/1-1911061331290-L.jpg",江苏·徐州·丰县生活娱乐
@@ -3445,8 +3443,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 group-title="江苏" tvg-id="丰县生活娱乐" tvg-name="丰县生活娱乐" tvg-logo="https://www.nettvpro.xyz/uploads/allimg/19/1-1911061331290-L.jpg",江苏·徐州·丰县生活娱乐
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="江苏",影视剧频道
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8
 
 #EXTINF:-1 group-title="湖南" tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png",湖南·茶
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
@@ -3697,10 +3693,10 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001739/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="陕西" tvg-id="陕西移动" tvg-name="陕西移动" tvg-logo="https://www.nettvpro.xyz/uploads/22/1-220RR239333H.jpg",陕西移动
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="陕西" tvg-id="城固县电视台" tvg-name="城固县电视台" tvg-logo="https://www.nettvpro.xyz/uploads/20/1-20101022304U02.jpg",陕西·汉中·城固县电视台
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
 #EXTINF:-1 group-title="陕西" tvg-logo="https://www.nettvpro.xyz/uploads/allimg/18/1-1Q21Q910230-L.jpg",陕西·商洛新闻综合
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
-#EXTINF:-1 group-title="陕西",城园
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
 #EXTINF:-1 group-title="陕西",FGTV 1
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 
@@ -3802,7 +3798,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/ind
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?
 #EXTINF:-1 group-title="海南" tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://epg.112114.xyz/logo/海南自贸.png",海南自贸
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000320/1.m3u8
-#EXTINF:-1 group-title="海南",三亚卫视
+#EXTINF:-1 group-title="海南" tvg-id="三亚综合" tvg-name="三亚综合" tvg-logo="https://www.nettvpro.xyz/uploads/allimg/18/1-1P319101J50-L.jpg",海南·三亚综合
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
 
 #EXTINF:-1 group-title="辽宁" tvg-id="辽宁家庭理财" tvg-name="辽宁家庭理财" tvg-logo="https://www.nettvpro.xyz/uploads/18/1-1P1241A52D10.png",辽宁家庭理财
@@ -4106,6 +4102,9 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 #EXTINF:-1 group-title="浙江·iHOT" tvg-logo="https://epg.112114.eu.org/logo/欧美影视.png",iHOT 欧美影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+
+#EXTINF:-1 group-title="中国交通" tvg-id="中国交通北京" tvg-name="中国交通北京" tvg-logo="https://www.nettvpro.xyz/uploads/19/1-1Z92G12224327.jpg",中国交通·北京
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000438/index.m3u8?IAS
 
 #EXTINF:-1 group-title="CHC·电影" tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC 动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -4537,6 +4536,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230435/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/PLTV/1/224/3221230463/1.m3u8
 #EXTINF:-1 group-title="影视",动画片
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221230463/1.m3u8
+#EXTINF:-1 group-title="影视",影视剧频道
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8
 
 #EXTINF:-1 group-title="未知",体育休闲
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
